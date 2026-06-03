@@ -10,7 +10,7 @@
 # Muzammil Nisar 
 ### Information Security Analyst 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzammil%20Nisar-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/muzammil-nisar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzammil%20Nisar-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/muzammil-nisar)
 [![Email](https://img.shields.io/badge/Email-mak%40email.com-EA4335?style=flat-square&logo=gmail)](mailto:mmuzammilnisar2k@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-muzammilnisar.info-1A1A2E?style=flat-square&logo=vercel)](https://muzammilnisar.info)
 [![Location](https://img.shields.io/badge/📍-Naples%2C%20Italy-009246?style=flat-square)](https://maps.google.com/?q=Naples,Italy)
@@ -150,7 +150,7 @@ I'm actively looking for **SOC Analyst** and **Information Security** roles in I
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/muzammil-nisar)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muzammil-nisar)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail)](mailto:muzammilnisar2k@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-1A1A2E?style=for-the-badge&logo=vercel)](https://muzammilnisar.info)
 
