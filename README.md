@@ -7,8 +7,8 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-# Muzammil Nisar (Mak)
-### Information Security Analyst · SOC Engineer · Threat Hunter
+# Muzammil Nisar 
+### Information Security Analyst 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzammil%20Nisar-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/muzammilnisar96)
 [![Email](https://img.shields.io/badge/Email-mak%40email.com-EA4335?style=flat-square&logo=gmail)](mailto:mmuzammilnisar2k@gmail.com)
