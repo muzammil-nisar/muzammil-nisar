@@ -11,7 +11,7 @@
 ### Information Security Analyst · SOC Engineer · Threat Hunter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzammil%20Nisar-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/muzammilnisar96)
-[![Email](https://img.shields.io/badge/Email-mak%40email.com-EA4335?style=flat-square&logo=gmail)](mailto:mak@email.com)
+[![Email](https://img.shields.io/badge/Email-mak%40email.com-EA4335?style=flat-square&logo=gmail)](mailto:mmuzammilnisar2k@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-muzammilnisar.info-1A1A2E?style=flat-square&logo=vercel)](https://muzammilnisar.info)
 [![Location](https://img.shields.io/badge/📍-Naples%2C%20Italy-009246?style=flat-square)](https://maps.google.com/?q=Naples,Italy)
 
