@@ -121,17 +121,6 @@ Vulnerability Management     ████████████░░░░░
 
 `Jupyter` `MITRE ATT&CK` `Threat Hunting` `Python` `ELK Stack`
 
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzammilnisar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilnisar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-</div>
 
 ---
 
